@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Program: RecipeUpdater
+(*
  * File: MsgBoxAck.st
- * Author: Josh
- * Created: July 14, 2015
- ********************************************************************
- * Implementation of program RecipeUpdater
- ********************************************************************) 
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MsgBoxErr, licensed under the MIT License.
+ *)
 
 (* This function block will post a message block that can be acknowledged or add to the error collector *)
 FUNCTION_BLOCK MsgBoxAck

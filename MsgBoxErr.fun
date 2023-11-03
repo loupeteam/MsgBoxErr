@@ -1,4 +1,10 @@
-
+(*
+ * File: MsgBoxErr.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of MsgBoxErr, licensed under the MIT License.
+ *)
 FUNCTION_BLOCK MsgBoxAck (*TODO: Add your comment here*)
 	VAR_INPUT
 		Active : BOOL;

@@ -78,5 +78,6 @@
     <LibraryObject Name="Arnc0mx" Source="Libraries.Motion.Arnc0mx.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="TRF_LIB" Source="Libraries.Motion.TRF_LIB.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="powerlnk" Source="" Memory="UserROM" Language="Binary" Debugging="true" />
+    <LibraryObject Name="MsgBoxErr" Source="Libraries.Loupe.MsgBoxErr.lby" Memory="UserROM" Language="IEC" Debugging="true" />
   </Libraries>
 </SwConfiguration>
